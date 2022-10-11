@@ -11,15 +11,15 @@ public class Book {
     }
 
     public String getTitle() {
-        return this.title;
+        return title;
     }
 
     public Author getAuthor() {
-        return this.author;
+        return author;
     }
 
     public int getYearPublication() {
-        return this.yearPublication;
+        return yearPublication;
     }
 
     public void setYearPublication(int yearPublication) {

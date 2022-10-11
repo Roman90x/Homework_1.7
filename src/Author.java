@@ -8,14 +8,14 @@ public class Author {
     }
 
     public String getName() {
-        return this.name;
+        return name;
     }
 
     public String getSurname() {
-        return this.surname;
+        return surname;
     }
 
     public String getFullName() {
-        return this.name + " " + this.surname;
+        return name + " " + surname;
     }
 }
